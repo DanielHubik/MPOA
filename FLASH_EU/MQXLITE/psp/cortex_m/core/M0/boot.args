@@ -1,0 +1,17 @@
+-mcpu=cortex-m0
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-x assembler-with-cpp
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/Generated_Code"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/include"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/config"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/kernel"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/psp/cortex_m"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/psp/cortex_m/core/M0"
+-I"D:/xuser00/Ansoft/XSFK_KL25Z/XSFK_KL25Z/MQXLITE/psp/cortex_m/compiler/cwgcc"
+-Wall
+-c
+-fmessage-length=0

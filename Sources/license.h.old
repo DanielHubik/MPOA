@@ -1,0 +1,14 @@
+#ifndef LICENSE_H
+#define LICENSE_H
+// Placeholder license.h file
+// Copyright 2014 by Freescale Semiconductor
+// This file must be replaced with a valid license file
+// for proper operation of the fusion library.
+// Node-locked license files, which are locked to your specific Freedom board,
+// can be created using using the "Software Licenses" feature of the product installer.
+// Production licenses, which support all boards built using a given Kinetis MCU type,
+// can be purchased from Freescale Semiconductor.
+// 
+#define LICENSE_WORD_1 0x12345678
+#define LICENSE_WORD_2 0x9ABCDEF0
+#endif
